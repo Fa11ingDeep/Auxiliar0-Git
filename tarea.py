@@ -11,3 +11,6 @@ class Tarea:
 
     def skibidi(self):
         return "toilet"
+    
+    def terminar(self):
+        self.listo = True
